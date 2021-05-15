@@ -4,6 +4,6 @@
     "dev": "A.D.H#6742",       
     "token": "ODQzMDEzMjQ3MjI1Mjk4OTQ0.YJ9rRA.xxRhcY2FqchFNYp_NoZCC-hrQe8", 
     "database": "mongodb+srv://adh:8032160ammy@cluster0.7wy3x.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "FACT_API": "",
-    "AME_API": ""     
+    "FACT_API": "dd",
+    "AME_API": "ss"     
 }
